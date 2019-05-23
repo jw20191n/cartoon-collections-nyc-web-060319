@@ -1,6 +1,6 @@
-def roll_call_dwarves(dwarves)
-  dwarves.each do |name|
-    puts name
+def roll_call_dwarves(array)
+  array.each do |name|
+    puts "#{name}"
   end
 end
 
