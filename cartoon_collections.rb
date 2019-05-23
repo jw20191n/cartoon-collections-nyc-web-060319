@@ -1,5 +1,6 @@
 def roll_call_dwarves(array)
   hash = Hash.new
+  array.
 end
 
 def summon_captain_planet# code an argument here
